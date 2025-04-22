@@ -1,3 +1,4 @@
+
 from neural import NeuralNet
 
 print("\n\nTraining RN\n\n")
